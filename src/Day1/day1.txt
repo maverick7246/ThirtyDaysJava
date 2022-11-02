@@ -1,0 +1,6 @@
+q.    jdk vs jvm vs jre?
+a.    https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
+
+q.  java-fundamentals
+a. https://intellipaat.com/blog/tutorial/java-tutorial/java-fundamentals/
+
